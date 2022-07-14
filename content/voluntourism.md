@@ -1,0 +1,102 @@
+---
+title: "Voluntourism"
+---
+Throughout our travels, EWB has attempted to educate ourselves and avoid some of the common pitfalls of harmful voluntourism. Below is a report that part of our 2019 travel team completed, detailing some of our own trial and error as well as outside research on how to support communities in developing nations while minimizing the harm that can occur with profit-centric voluntourism. Some common mistakes include white saviorism, false representation of culture, and exploitation of children. 
+
+**A common place these mistakes manifest is in photos.**
+
+{{<sidebyside src="/img/voluntourism/1.jpeg">}}
+Why is this okay?
+
+1. All members of the photo are aware of the photo being taken for club publicity purposes
+
+2. All children’s parents have expressed consent for their children to be photographed
+
+3. These are not random people — they are all members of the CO-OP that we are familiar with
+
+"Before you run off to do good, it’s worth stopping to consider some ethical basics." - Richard Stupart
+{{</sidebyside>}}
+# Voluntourism
+
+There is an emerging trend, born out of the mission trips of the 80s and 90s, where people vacation by traveling abroad and serving others in an exotic location. This type of volunteering vacation has gained a large appeal to the globally-minded citizens of western nations. Many times these programs are “premised on the idea that one person’s impoverishment or environmental degradation is another’s opportunity for adventure and personal growth, rendering the structural inequalities that characterize many host/guest encounters a fundamental and necessary feature of this sort of tourism.” Before blindly participating in voluntourism, one must consider the ethical implications of such an effort.
+
+Voluntourism is often linked to the virtue of “doing good”. With that said, voluntourism has come under heavy scrutiny and caught the eyes of a multitude of critics. The term voluntourism is a combination of volunteering and tourism. It is defined as the act of providing volunteer work in the community where one is vacationing. Another definition is the “symbiotic relationship between the volunteers receiving cultural and technical experience, and the communities receiving assistance in infrastructure development.”  Although voluntourism has the potential to help alleviate poverty or provide support for people living in resource-deficient countries, it often times perpetuates poverty, patronization, and promotes misleading or false representations of countries and cultures. It is imperative that EWB-SCU does not engage in voluntourism, because it can betray the club’s mission of independence and prosperity for our partner community through collaboration and sustainable development.
+
+# White Saviorism/White Savior Complex
+
+Before engaging in any form of volunteering abroad, it is crucial that westerners are aware of the white savior complex. This is the self serving assumption that white people from developed countries should be saving poor people in Africa. White saviorism is primarily a product of ignorance, both of foreign cultures, and of European history. The legacy of colonization greatly influences western notions about Africa. The white savior is that same story of colonization repeating itself; the noble savage can be saved by being transformed, all in the image of the white man. Unless this harmful narrative is recognized and disrupted, it will be perpetuated. Voluntourism is the perpetuation of white saviorism, and by extension, a colonial mindset about Africa.
+
+The white savior complex in action often takes the form of volunteers from foreign countries accomplishing work that can be done by local people and local leaders. The most unfavorable effects of the white savior complex occur when voluntourists exploit the local communities by treating them as entertainment. Treating the communities as entertainment may consist of taking photos of them without permission, internationally adopting children as a means of saving them, exploiting the community members faces, stories, and culture through social media, or storytelling about the lack of leadership and infrastructure in the country at hand. When individuals perpetuate the white savior complex they are fueling an assortment of negative consequences, whether they know it or not. This includes patronization of the community, a falsified representation of foreign communities and cultures as well as the exploitation of children.
+
+Awareness of the implicit power dynamics between the EWB student volunteers and members of the community is the first step in addressing white saviorism. Though EWB members are still students, because of their positioning there is an inherent power differential. EWB students are perceived as experts, though they are not, due to their nationality, their education, and frequently, the color of their skin. This power dynamic is present even when EWB students are having informal discussions, as an offhand comment may be taken as an expert opinion. By being aware of this power dynamic, more informed conversation and collaboration between volunteers and the host community can be achieved. Without recognizing the power dynamic, the interests or participation of the community in terms of decision-making can easily be undermined.
+
+# Patronization
+
+Even at its best, voluntourism has the unintentional effect of treating a community as if they are inferior to outside foreign groups. This results in an indirect form of patronization towards the community, culture, and country. One of the most famous community outreach programs in the 21st century was the Kony 2012 campaign concerning the “Invisible Children”. The American film director Jason Russell participated in voluntourism as he traveled to Uganda and exploited local community members faces, stories and cultures through social media. The purpose of this video aimed “to protect thousands of families from violence and exploitation by Joseph Kony’s army.” This video spread across social media faster than wildfire reaching 100 million views in record time, becoming the most viral video in history according to Business Insider. As this video attempted to protect children in Uganda from Kony’s LRA, it portrays Uganda specifically as a country waiting for America to solve their problems. It was a dramatic oversimplification of the social justice issue at hand, promoting the implicit bias that the American populous is superior to Africa, and that Americans must step in to solve Africa’s problems. According to Alex De Waal, the director of the world peace foundation, the Kony 2012 video is “peddling dangerous and patronizing falsehoods”. Through the volunteer efforts of Jason Russell, his overall impact on Uganda has been overwhelmingly negative as his campaign unintentionally promotes the patronization of Ugandan communities.  
+
+# False Representation of Culture
+
+The nature of voluntourism necessitates a short stay in the host country, and often results in an incomplete picture of a foreign nation. As these ill-informed volunteers tell their friends, family and colleagues about their time spent in the community, they will inadvertently spread the notion that the local communities they support lack the leadership and infrastructure needed to fix their own problems. This only promotes the false notion that developing countries are incapable of helping themselves and need American voluntourists to fix their problems. It also promotes a false representation of the culture as a voluntourist doesn't spend nearly enough time immersed in the communities culture to truly understand the economic, social, and political complexities of the local culture. And to think these voluntourists can or should be able to fully understand the nuances of an entire culture is short-sided. A voluntourists perspective is dramatically oversimplified due to the short duration of their stay. The social and physical culture of a country is unlikely to be understood in such a time period. This would be equivalent to “a kid who thinks he can come to America and solve our gun legislation law issues in a feasible way over the course of 5 years.” This is the result of a diluted viewpoint due to the preconceived oversimplification of such a cultural problem. The false representation of community and national culture is intrinsically rooted in the white savior complex and must be avoided. 
+
+# Exploitation of children
+
+When voluntourists treat community development as a form of entertainment they often exploit the faces, stories, and culture of the local community members they interact with through social media. This is commonly scene among privileged college students who are given the opportunity to collaborate with a local community in some developing nation. Many times these college students take pictures of community members without permission and simplify the culture and people, especially children, by portraying the “poor but happy” narrative. When voluntourists share these images and experiences through social media they are exploiting the faces of community members and especially the children, entrenching misleading ideas about Africa and using people’s faces as a form of social currency.
+
+# Representation of our Partner Community
+
+As an organization we must be ceaselessly diligent in regards to what information and images are shared by our organization over social media. Using a crowd of smiling Rwandan schoolchildren as a backdrop for a powerpoint slide or a social media post may seem harmless, but that is using someone’s face as an emotional tool without their understanding or consent. Once an image is shared over social media, control of it is essentially no longer possible. We must also be mindful of the stories we tell about Rwanda, and how they portray our community partners. This does not mean that the experiences of the travel team have no value or meaning, but we must be mindful of the fact that we do not have the whole picture of these people’s lives and cultures, and instead were peering through a proverbial window for a period of time.
+
+A key component of voluntourism is selling a cultural experience abroad, and EWB must be especially aware of this trope in regards to the way that the university advertises the organization to new students. By sharing images without concern for their future use, EWB can serve to exploit our partner community as an emotional tool and contribute to harmful stereotypes about Africa at large. EWB cannot be represented as a vacation experience, an “abroad” experience, or anything of the like, and should discourage the university from doing so as well. If EWB is simply an abroad experience, it is a voluntourism experience. 
+
+# Economic Considerations
+
+Tourism is one of the largest and fastest growing global industries. In 2011, tourism accounted for 9% of global GDP (approximately $6 trillion USD) and 255 million jobs. In Rwanda, tourism accounts for over 40% of the GDP, surpassing all other industries. The primary form of tourism in Rwanda is known as ecotourism, which is primarily centered around the great apes in the Volcanoes National Park. The cost to see the gorillas is ever increasing, due to the limited number of permits made available to companies by the government. One of the primary features of ecotourism is that the businesses involved are also often conservationist organizations, meaning that they put some of their money back into conservation and encourage the sustainability of their business model. This is in their best interest because if the gorillas cease to exist, so does their business.
+
+It must be understood that much of voluntourism is a business, just like ecotourism. When people think about non-profits, they often misunderstand that a profit motive can still exist. While not-for-profit organizations often serve a mission rather than quarterly earnings, making money is the only way their mission can be realized. Voluntourism as an industry is concerned with the customer experience, because that is what drives the funding. If we look at voluntourism as an extension of the tourism business, an ugly realization emerges; it is in the best interest of these organizations to perpetuate whatever system they support. If that is an orphanage, it is in the best interest of the not-for-profit organization to build more orphanages. As it turns out, orphanages are not the answer; relocation of children into family homes is significantly preferred for a child’s health and the mitigation of abuse. Voluntourism entrenches this business and perpetuates the orphanage system, while at the same time serving to perpetuate misleading ideas about what impoverished countries need.11 
+
+For Rwanda, as tourism continues to dominate their economy, considerable care must be taken to ensure that the behaviors and industries being perpetuated are not harmful. This care is the responsibility of the organizations that operate in Rwanda, the people that partake in these services, and Rwandans who participate in these businesses.
+
+# Creating an Even Exchange
+
+It is imperative that we are aware of what voluntourism looks like, and how we can measure our work against it. Voluntourism is our next door neighbor, and we must be especially careful that we do not entertain its fancies. Voluntourism is often criticized for being short sighted and focusing on projects with short term impact. Since the duration of each volunteer’s stay typically lasts only a few weeks at most, voluntourism programs that focus on the experience of the volunteer often attempt to direct volunteers towards projects where they will be able to see results or feel that they have made a significant contribution while still in country. Often, these short term projects overlap with work that could be performed by local workers. To this end, there must be some component of teaching through transferral of information or skills. EWB cannot simply provide technical support without interacting with the community or collaborating, and the definition of collaboration may differ between the host community and the volunteers. In a Colorado School of Mines study, disposable cameras were given to both student engineering volunteers and community members, and both were tasked with documenting collaboration. 
+
+In the photos that community members captured, community members can be seen actively communicating to MWB members, often seeming to be in charge of the interaction. The photos suggest that the community’s perception of collaboration most often involves their community imparting knowledge to the visiting MWB members. For example, one photo depicts a young community member demonstrating to an MWB member how to pump water from a well. The common theme among them is that the roles of “giver” and “receiver” perceived by the community are different than what appear in many ETH projects that privilege engineers as the primary source of knowledge. In contrast with the photos taken by the community members, the photos taken by MWB members to illustrate “collaboration” involved MWB informing the community.
+
+This study demonstrates that each group had a different definition of collaboration, and the direction information was transferred mattered. Therefore the transferral of information must not be unilateral in any capacity.
+
+EWB-SCU sends travel teams for about two weeks, and must complete their tasks within that time frame to ensure their quality and functionality. In order to combat this short-term mindset, the national program strategy stipulates that projects span 3-5 years, and encourages a rigorous concern for actual community need, and diligent communication throughout the project lifecycle. If the purpose of these projects is to provide a sustainable alternative to an existing or deficient system, then this goal must be baked into the project process via continuing monitoring and evaluation beyond the completion of the project. This is part of the current national model.  “designing programs to constructively build on technical content taught in other courses, working with community benefit in mind, appreciating the long-term impacts of any outcomes, and fostering reflection of experience is essential.”
+
+Another primary feature of voluntourism is its concern for the interests of the volunteer first and foremost, resulting in a lack of concern for the interests of the host communities. In order to combat this, EWB-SCU must first be aware of the interests of the community, necessitating diligent communication and pursuit of the underlying assumptions we make about what the community may want or need. This is a feature of white saviorism; the savior believes that they know what is best for others, and exert their will through a system of structural inequality. The next step beyond awareness of community needs and interests is the prioritization of these interests above our own personal enrichment or personal growth. In fact, if personal growth is one of the goals of the project, it is almost assuredly deluded or misled, and will not serve the community properly. There is no easy middle ground found between community interests and volunteer interests, because there is a structural inequality present. Instead, as volunteers we must reject the notion that there is something in it for us other than the opportunity to serve.
+
+# Conclusion
+
+Voluntourism carries with it a host of negative consequences; patronization, exploitation, and entrenchment of harmful incentives as well as dependence. Any potential benefits of a voluntourist model are seriously outweighed by the consequences for the communities impacted. Humanitarian engineering organizations such as Engineers Without Borders have the potential to provide sustainable small-scale solutions for communities in need, and they also have the potential to serve as a voluntourist abroad experiences for personal enrichment. This is discouraged through the EWB-USA review system, but ultimately is the sole responsibility of the student organizations themselves. Therefore EWB-SCU must be diligent in its efforts to promote an equitable exchange of knowledge and experience, and prioritize community needs and interests over any personal or professional development in order to avoid the attributes of voluntourism and work to mitigate the structural inequalities present in the volunteering exchange.
+
+## References (i)
+
+African Arguments. (Mar. 11th, 2012). _Don’t Elevate Joseph Kony – By Alex de Waal_. African Arguments. 
+
+Chou, Ming Che. “Does Tourism Development Promote Economic Growth in Transition Countries? A Panel Data Analysis.” _Economic Modelling_, vol. 33, 2013, pp. 226–232., doi:10.1016/j.econmod.2013.04.024.
+
+Guarino, Janine. (Sep. 11th, 2018). _Holding up the Mirror: Recognizing and Dismantling the “White Savior Complex”_. Medium. 
+
+Hepola, Sarah. “How Rwanda Became the Unlikeliest Tourism Destination in Africa.” _Bloomberg.com_, Bloomberg, 9 Sept. 2017.
+
+Invisible Children. (2019). _Kony 2012._ Invisible Children.
+
+Merriam-Webster. (Nov. 15th, 2019). _Voluntourism_. Merriam-Webster. 
+
+Stupart, Richard. (Aug. 22nd, 2011). _Why You Shouldn’t Participate in Voluntourism._ Matador Network. 
+
+Weisman, Aly. (Mar. 12th, 2012). _How #Kony2012 Just Became The Most Viral Video Of All Time_. Business Insider. 
+
+Woosnam, K., & Lee, Y. (2011). _Applying Social Distance to Voluntourism Research_. Pergamon. 
+
+## References (ii)
+
+Birzer, C., & Hamilton, J. (2019). Humanitarian engineering education fieldwork and the risk of doing more harm than good. Australasian Journal of Engineering Education, 1–10. doi: 10.1080/22054952.2019.1693123
+
+Laporte, D., Kim, E., & Smith, J. (Fall, 2017). _Engineering to Help Communities or Students’ Development? An Ethnographic Case Study of an Engineering-to-Help Student Organization_. International Journal for Service Learning in Engineering. 
+
+  
+Oakes, W., Kalifah, S., Sigworth, C., Fuchs, P., & Lefebvre, A. (Fall 2019). _EWB-USA and EPICS: Academic Credit, Community Impact, and Student Learning_. International Journal for Service Learning in Engineering.

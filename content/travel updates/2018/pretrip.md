@@ -1,0 +1,8 @@
+---
+title: "2018: PreTrip Work (Days -3 - 0)"
+createdAt: "2018-8-22T00:00:00+00:00"
+draft: false
+---
+The three days before the trip (August 18-21) were dedicated to the final adjustments on the cart, last minute trip logistics, and making sure that everything was packed and ready to go. Lauren, Isabella, and Sydney disassembled and reassembled the cart, taking careful note of what materials were used so that they could create an operational manual that will be translated into Kinyarwanda for the community to use. Teal, David, and Jon worked on finalizing the electrical wiring between the solar panel and the battery box. Jon also manufactured a new piece of steel tubing to widen the castor wheels, and a threaded rod that would hold the transaxle frame tighter together. Shiyin helped where needed and finalized trip logistics. Finally, Sydney and David led the final effort to spray paint our pieces before packing. Overall we worked well as a team and with persistence we were able to complete the electrical wiring, prepare the manuals and put them in a binder for presentation to the community, and carefully pack up all the pieces for the two projects in time for our flight. We would like to thank everyone who made this trip possible and for getting us this far. Special thanks go to Alan and Dr. T for hosting us while we disassembled, reassembled and packed and painted, they were incredibly helpful and patient with us and we trapsed in and out of their home and borrowed their tools.
+
+![2018 Pretrip](/img/travel-updates/2018-pretrip.jpeg)

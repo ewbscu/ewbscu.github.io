@@ -1,0 +1,10 @@
+{{ range (sort .Pages ".Params.order") }}
+    <div class="officer-info">
+        {{ if isset .Params "image" }}
+        <img src="{{.Params.image}}">
+        {{ end }}
+        <h3 class="name" >{{ .Title | markdownify }}</h3>
+        <p class="position" >{{ .Params.position | markdownify }}</p>
+        <p class="quote" >{{ .Params.quote | markdownify }}</p>
+    </div>
+{{ end }}

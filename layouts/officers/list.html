@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+
+  <body>
+
+    <div id="all">
+
+        {{ partial "top.html" . }}
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="officer-list">
+            <div class="container">
+                {{ range .Pages.GroupByParam "Year" "desc" }}
+                <h2>{{ .Key }} Officers</h2>
+                <div class="flex">
+                    {{ partial "person.html" . }}
+                </div>
+                {{ end }}
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

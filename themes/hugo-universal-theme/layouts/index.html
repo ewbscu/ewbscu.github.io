@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+
+  <body>
+
+    <div id="all">
+
+        {{ partial "top.html" . }}
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "see_more.html" . }}
+
+        <div class="description">
+          <h3 class="text-center">{{ .Site.Params.description_header | markdownify }}</h3>
+          <br>
+          <p class="text-center lead">{{ .Site.Params.description | markdownify }}</p>
+        </div>
+
+        {{ partial "carousel.html" . }}
+
+        {{ partial "features.html" . }}
+
+        {{ partial "testimonials.html" . }}
+
+        {{ partial "recent_posts.html" . }}
+
+        {{ partial "clients.html" . }}
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

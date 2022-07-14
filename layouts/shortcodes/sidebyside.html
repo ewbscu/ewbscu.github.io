@@ -1,0 +1,10 @@
+{{ $src := .Get "src" }}
+
+<div class="sidebyside">
+    <div class="sidebyside-col sidebyside-img">
+      <img src="{{$src}}" style="width:100%">
+    </div>
+    <div class="sidebyside-col sidebyside-text">
+        {{ .Inner | markdownify}}
+    </div>
+  </div>

@@ -1,0 +1,160 @@
+.box-image-text .image {
+  min-height: 190px;
+  max-height: 190px;
+}
+
+.box-image-text .image img {
+  max-height: 190px;
+  margin: auto;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.description{
+  padding: 50px max(15vw, 50px);
+}
+
+.box-simple img{
+  width: 100%;
+}
+.box-simple a{
+  text-decoration: none;
+}
+
+#officer-list .name, #officer-list .position{
+  font-size: 18px;
+  margin: 10px 0;
+}
+#officer-list .quote{
+  font-size: 12.5px;
+}
+
+#officer-list .flex{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px 30px;
+}
+
+#officer-list .officer-info{
+  width: 180px;
+}
+#officer-list .officer-info img{
+  width: 100%;
+  aspect-ratio: 0.8;
+  object-fit: cover;
+
+}
+#officer-list{
+  margin-bottom: 50px;
+}
+
+.owl-carousel.imgcarousel{
+  display: inherit;
+  width: min(70vw,533px);
+  margin: auto;
+}
+.sidebyside-carousel{
+  padding-right:10px;
+}
+.sidebyside-carousel-text,.sidebyside-carousel{
+  width: 50%;
+}
+
+.owl-carousel.sidebycarousel{
+  display: inherit;
+  width: 100%;
+  margin: auto;
+}
+
+.sidebycarousel .owl-wrapper-outer{
+  height: max(400px,20vw);
+}
+
+.owl-carousel.imgcarousel img {
+  width: 100%;
+  object-fit: contain;
+  object-position: center center;
+  height: 100%;
+}
+
+.imgcarousel .owl-wrapper-outer{
+  height: 400px;
+}
+
+.imgcarousel .owl-carousel .owl-stage {
+  display: flex;
+  height: 400px;
+}
+
+.imgcarousel .owl-carousel .owl-item img {
+  width: 100%;
+  height: 100%;
+}
+
+.imgcarousel .owl-wrapper, .imgcarousel .owl-item, .imgcarousel .item {
+  height: 100%;
+}
+
+.img-gallery{
+  display: flex;
+  flex-wrap: wrap;
+}
+.img-gallery img{
+  width: 200px;
+  object-fit:contain;
+  height: 200px;
+  margin: 10px;
+}
+
+.sidebyside-text {
+  width: calc(100% - min(400px,40%) - 30px);
+}
+
+.sidebyside-img {
+  width: min(400px,40%);
+  margin-right: 30px;
+}
+
+.sidebyside-col {
+  float: left;
+}
+
+/* Clear floats after image containers */
+.sidebyside::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+@media (max-width:550px) {
+  .sidebyside {
+    display: block;
+  }
+
+  .sidebyside-col {
+    float: none;
+    width: 100%;
+  }
+}
+
+#content{
+  margin-bottom: 30px;
+}
+
+#post-content img{
+  width: 100%;
+}
+
+#post-content, .col-md-12{
+  font-size: 16px;
+}
+
+.post-banner{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 25px;
+}

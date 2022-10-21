@@ -23,11 +23,11 @@
 
                     <div class="col-md-9" id="blog-listing-medium">
 
-                        {{ $paginator := .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections) }}
+                        {{ $paginator := .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections).Reverse }}
                         {{ range $paginator.Pages }}
                         <section class="post">
                             <div class="row">
-                                <div class="col-md-4">
+                                <!-- <div class="col-md-4">
                                   <div class="image">
                                       <a href="{{ .Permalink }}">
                                           {{ if .Params.banner }}
@@ -37,8 +37,8 @@
                                           {{ end }}
                                       </a>
                                   </div>
-                                </div>
-                                <div class="col-md-8">
+                                </div> -->
+                                <div class="col-md-12">
                                     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                                     <div class="clearfix">
                                         <p class="author-category">
